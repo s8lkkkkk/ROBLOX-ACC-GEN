@@ -5,12 +5,15 @@ https://discord.gg/a9m6nrgJVD
 https://discord.gg/a9m6nrgJVD
 
 
-```pip install requests
+```
+pip install requests
 pip install selenium
 pip install tk
 ```
 
-``` python main.py```
+```
+python main.py 
+```
 
 
  offers webhook support does not bypass captcha if you have a api it can be added any questions join our servr
